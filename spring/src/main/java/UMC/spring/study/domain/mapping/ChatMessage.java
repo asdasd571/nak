@@ -1,4 +1,4 @@
-package UMC.spring.study.domain;
+package UMC.spring.study.domain.mapping;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
