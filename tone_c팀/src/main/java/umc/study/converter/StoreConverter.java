@@ -1,6 +1,5 @@
 package umc.study.converter;
 
-import umc.study.domain.Review;
 import umc.study.web.dto.StoreRequestDTO;
 import umc.study.web.dto.StoreResponseDTO;
 

@@ -1,8 +1,6 @@
 package umc.study.domain.mapping;
 
 import lombok.*;
-import umc.study.domain.Member;
-import umc.study.domain.Mission;
 import umc.study.domain.common.BaseEntity;
 import umc.study.domain.enums.MissionStatus;
 

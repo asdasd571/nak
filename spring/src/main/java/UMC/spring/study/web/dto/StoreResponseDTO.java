@@ -1,2 +1,4 @@
-package UMC.spring.study.web.dto;public class StoreResponseDTO {
+package UMC.spring.study.web.dto;
+
+public class StoreResponseDTO {
 }
